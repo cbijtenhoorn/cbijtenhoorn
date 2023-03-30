@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, my name is Céline! 💖
+
+📚 I'm a second-year student Software Developer @Nova College Beverwijk<br />
+👩‍💻 Right now, I'm an intern @Enk Software <br />
+🌱 I'm currently learning <a href="https://www.udemy.com/course/the-complete-javascript-course/">JavaScript</a> and <a href="https://www.codebreakthrough.com/view/courses/free-react-course">React</a>
 
 <!--
 **cbijtenhoorn/cbijtenhoorn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
